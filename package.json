@@ -1,0 +1,12 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "实用的 Node.js 工具函数库 - 日期、字符串、数组、加密等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils", "tools", "nodejs", "helper"],
+  "author": "豆豆",
+  "license": "MIT"
+}
